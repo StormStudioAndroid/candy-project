@@ -1,0 +1,34 @@
+.my-navbar {
+    background-color: #FFEB3B;
+    color: white;
+}
+.my-navbar a {
+    color: white !important;
+    font-size: 18px !important;
+}
+.my-btn {
+ color: white !important;
+    font-size: 18px !important;
+}
+.border-tlr-radius { 
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px; 
+}
+.active {
+    background-color: #FFF9C4 !important ;
+    color: black !important;
+}
+.navbar {
+    background-color: #FFEE58 !important;
+    border-color: #FFEB3B !important;
+}
+.my-navbar .navbar-toggle {
+  border-color: white; /* Removes border color */
+  float: left; /* Move navbar toggle to left */
+}
+.my-navbar .navbar-toggle .icon-bar {
+  background-color: #fff !important; /* Changes regular toggle color */
+}
+.my-navbar .navbar-toggle .icon-bar:hover {
+  background-color: #fff; /* Changes toggle color on hover */
+}

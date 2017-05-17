@@ -1,0 +1,58 @@
+.img-project {
+    width: 100%;
+    height: 40%;
+}
+.card-project {
+    min-height: 300px !important;
+    background: white !important;
+}
+.card-project:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.text-project {
+    padding: 10px;
+    height: 50%;
+}
+.week-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card-image {
+    min-height: 100px;
+    background-color: #eee;
+}
+.well {
+    height: 500px; !important;
+    max-width: 524px !important;
+    margin: 50px auto !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+}
+.title {
+      text-align: center;
+    font-size: 15px;
+    padding-top: 4px;
+}
+
+.container-fluid {
+    padding: 5%;
+}
+.status-all {
+    text-align: center;
+    font-size: 15px;
+    padding-top: 4px;
+    color: #00E676;
+
+}
+.status-inwork {
+    text-align: center;
+    font-size: 15px;
+    padding-top: 4px;
+    color: #0091EA;
+
+    
+}
+.card-image img {
+        width: 100%;
+        max-width: 100%;
+        display: block;
+    }
